@@ -1,7 +1,7 @@
 
 # Major Depression Iventory (MDI) -- ICD-10/DSM-IV (2003)
 
-
+# made by: Zane Dax, May 21, 2021. Source code 2018.
 
 
 import streamlit as st
